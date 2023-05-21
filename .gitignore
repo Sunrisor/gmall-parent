@@ -1,0 +1,11 @@
+# Project exclude paths
+/common/common-util/target/
+/common/service-util/target/
+/common/web-util/target/
+/model/target/
+/server-gateway/target/
+/service/service-item/target/
+/service/service-product/target/
+/service-client/service-item-client/target/
+/service-client/service-product-client/target/
+/web/web-all/target/
